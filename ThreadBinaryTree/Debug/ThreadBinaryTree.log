@@ -1,0 +1,10 @@
+﻿  ThreadBinaeyTree.c
+j:\2015source\projects\datastructure\threadbinarytree\threadbinaeytree.c(12): warning C4047: 'function' : 'int' differs in levels of indirection from 'void *'
+j:\2015source\projects\datastructure\threadbinarytree\threadbinaeytree.c(12): warning C4024: 'memset' : different types for formal and actual parameter 2
+j:\2015source\projects\datastructure\threadbinarytree\threadbinaeytree.c(23): warning C4047: 'function' : 'int' differs in levels of indirection from 'void *'
+j:\2015source\projects\datastructure\threadbinarytree\threadbinaeytree.c(23): warning C4024: 'memset' : different types for formal and actual parameter 2
+j:\2015source\projects\datastructure\threadbinarytree\threadbinaeytree.c(37): warning C4047: 'function' : 'int' differs in levels of indirection from 'void *'
+j:\2015source\projects\datastructure\threadbinarytree\threadbinaeytree.c(37): warning C4024: 'memset' : different types for formal and actual parameter 2
+j:\2015source\projects\datastructure\threadbinarytree\threadbinaeytree.c(65): warning C4047: 'function' : 'int' differs in levels of indirection from 'void *'
+j:\2015source\projects\datastructure\threadbinarytree\threadbinaeytree.c(65): warning C4024: 'memset' : different types for formal and actual parameter 2
+  ThreadBinaryTree.vcxproj -> J:\2015source\Projects\DataStructure\Debug\ThreadBinaryTree.exe

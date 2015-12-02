@@ -1,0 +1,10 @@
+﻿  DoublyLinkedList.c
+c:\users\ailab\documents\visual studio 2013\projects\singlylinkedlist\doublylinkedlist\doublylinkedlist.c(69): warning C4047: 'function' : 'int' differs in levels of indirection from 'void *'
+c:\users\ailab\documents\visual studio 2013\projects\singlylinkedlist\doublylinkedlist\doublylinkedlist.c(69): warning C4024: 'memset' : different types for formal and actual parameter 2
+c:\users\ailab\documents\visual studio 2013\projects\singlylinkedlist\doublylinkedlist\doublylinkedlist.c(76): warning C4047: 'function' : 'int' differs in levels of indirection from 'void *'
+c:\users\ailab\documents\visual studio 2013\projects\singlylinkedlist\doublylinkedlist\doublylinkedlist.c(76): warning C4024: 'memset' : different types for formal and actual parameter 2
+c:\users\ailab\documents\visual studio 2013\projects\singlylinkedlist\doublylinkedlist\doublylinkedlist.c(93): warning C4047: 'function' : 'int' differs in levels of indirection from 'void *'
+c:\users\ailab\documents\visual studio 2013\projects\singlylinkedlist\doublylinkedlist\doublylinkedlist.c(93): warning C4024: 'memset' : different types for formal and actual parameter 2
+c:\users\ailab\documents\visual studio 2013\projects\singlylinkedlist\doublylinkedlist\doublylinkedlist.c(117): warning C4047: 'function' : 'int' differs in levels of indirection from 'void *'
+c:\users\ailab\documents\visual studio 2013\projects\singlylinkedlist\doublylinkedlist\doublylinkedlist.c(117): warning C4024: 'memset' : different types for formal and actual parameter 2
+  DoublyLinkedList.vcxproj -> c:\users\ailab\documents\visual studio 2013\Projects\SinglyLinkedList\Debug\DoublyLinkedList.exe

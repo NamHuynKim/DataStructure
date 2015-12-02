@@ -1,0 +1,9 @@
+﻿  SinglyLinkedList.c
+j:\2015source\projects\datastructure\singlylinkedlist\singlylinkedlist.c(73): warning C4047: 'function' : 'int' differs in levels of indirection from 'void *'
+j:\2015source\projects\datastructure\singlylinkedlist\singlylinkedlist.c(73): warning C4024: 'memset' : different types for formal and actual parameter 2
+j:\2015source\projects\datastructure\singlylinkedlist\singlylinkedlist.c(78): warning C4028: formal parameter 1 different from declaration
+j:\2015source\projects\datastructure\singlylinkedlist\singlylinkedlist.c(80): warning C4047: 'function' : 'int' differs in levels of indirection from 'void *'
+j:\2015source\projects\datastructure\singlylinkedlist\singlylinkedlist.c(80): warning C4024: 'memset' : different types for formal and actual parameter 2
+j:\2015source\projects\datastructure\singlylinkedlist\singlylinkedlist.c(92): warning C4028: formal parameter 1 different from declaration
+j:\2015source\projects\datastructure\singlylinkedlist\singlylinkedlist.c(155): error C2166: l-value specifies const object
+j:\2015source\projects\datastructure\singlylinkedlist\singlylinkedlist.c(158): error C2059: syntax error : ')'

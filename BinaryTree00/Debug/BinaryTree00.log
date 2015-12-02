@@ -1,0 +1,10 @@
+﻿빌드 시작: 2015-06-17 오후 3:02:31
+     1>2 노드의 "F:\2015source\Projects\DataStructure\BinaryTree00\BinaryTree00.vcxproj" 프로젝트(Build 대상)입니다.
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(381,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (BinaryTree00.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+     1>Link:
+         BinaryTree00.vcxproj -> F:\2015source\Projects\DataStructure\Debug\BinaryTree0.exe
+     1>"F:\2015source\Projects\DataStructure\BinaryTree00\BinaryTree00.vcxproj" 프로젝트를 빌드했습니다(Build 대상).
+
+빌드했습니다.
+
+경과 시간: 00:00:00.14

@@ -1,0 +1,4 @@
+﻿  quiz02.c
+j:\2015source\projects\datastructure\quiz02.c\quiz02.c(19): warning C4013: 'summary' undefined; assuming extern returning int
+j:\2015source\projects\datastructure\quiz02.c\quiz02.c(50): warning C4013: 'strlen' undefined; assuming extern returning int
+  quiz02.c.vcxproj -> J:\2015source\Projects\DataStructure\Debug\quiz02.c.exe

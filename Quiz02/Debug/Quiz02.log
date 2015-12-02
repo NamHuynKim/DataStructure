@@ -1,0 +1,5 @@
+﻿  SparseMatrix.cpp
+j:\2015source\projects\datastructure\quiz02\sparsematrix.cpp(87): error C2039: 'Add' : is not a member of 'SparseMatrix'
+          j:\2015source\projects\datastructure\quiz02\sparsematrix.h(13) : see declaration of 'SparseMatrix'
+j:\2015source\projects\datastructure\quiz02\sparsematrix.cpp(92): error C2039: 'Multiply' : is not a member of 'SparseMatrix'
+          j:\2015source\projects\datastructure\quiz02\sparsematrix.h(13) : see declaration of 'SparseMatrix'

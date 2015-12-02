@@ -1,0 +1,11 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(388,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (DoublyLinkedList.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  DoublyLinkedList.c
+j:\2015source\projects\datastructure\doublylinkedlist(head)\doublylinkedlist.c(69): warning C4047: 'function' : 'int' differs in levels of indirection from 'void *'
+j:\2015source\projects\datastructure\doublylinkedlist(head)\doublylinkedlist.c(69): warning C4024: 'memset' : different types for formal and actual parameter 2
+j:\2015source\projects\datastructure\doublylinkedlist(head)\doublylinkedlist.c(76): warning C4047: 'function' : 'int' differs in levels of indirection from 'void *'
+j:\2015source\projects\datastructure\doublylinkedlist(head)\doublylinkedlist.c(76): warning C4024: 'memset' : different types for formal and actual parameter 2
+j:\2015source\projects\datastructure\doublylinkedlist(head)\doublylinkedlist.c(93): warning C4047: 'function' : 'int' differs in levels of indirection from 'void *'
+j:\2015source\projects\datastructure\doublylinkedlist(head)\doublylinkedlist.c(93): warning C4024: 'memset' : different types for formal and actual parameter 2
+j:\2015source\projects\datastructure\doublylinkedlist(head)\doublylinkedlist.c(117): warning C4047: 'function' : 'int' differs in levels of indirection from 'void *'
+j:\2015source\projects\datastructure\doublylinkedlist(head)\doublylinkedlist.c(117): warning C4024: 'memset' : different types for formal and actual parameter 2
+  DoublyLinkedList(head.vcxproj -> J:\2015source\Projects\DataStructure\Debug\DoublyLinkedList(head).exe

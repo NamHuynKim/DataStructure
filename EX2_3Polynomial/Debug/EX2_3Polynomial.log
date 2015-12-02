@@ -1,0 +1,2 @@
+﻿MSVCRTD.lib(crtexe.obj) : error LNK2019: unresolved external symbol _main referenced in function ___tmainCRTStartup
+J:\2015source\Projects\DataStructure\Debug\EX2_3Polynomial.exe : fatal error LNK1120: 1 unresolved externals

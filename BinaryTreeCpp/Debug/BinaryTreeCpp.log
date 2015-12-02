@@ -1,0 +1,40 @@
+﻿  main.cpp
+c:\program files (x86)\microsoft visual studio 12.0\vc\include\xutility(2132): warning C4996: 'std::_Copy_impl': Function call with parameters that may be unsafe - this call relies on the caller to check that the passed values are correct. To disable this warning, use -D_SCL_SECURE_NO_WARNINGS. See documentation on how to use Visual C++ 'Checked Iterators'
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\xutility(2113) : see declaration of 'std::_Copy_impl'
+          j:\2015source\projects\datastructure\binarytreecpp\stack.h(35) : see reference to function template instantiation '_OutIt std::copy<T*,T*>(_InIt,_InIt,_OutIt)' being compiled
+          with
+          [
+              _OutIt=TreeNode<char> *
+  ,            T=TreeNode<char>
+  ,            _InIt=TreeNode<char> *
+          ]
+          j:\2015source\projects\datastructure\binarytreecpp\stack.h(31) : while compiling class template member function 'void Stack<TreeNode<char>>::ChangeSizeId(T *&,const int,const int)'
+          with
+          [
+              T=TreeNode<char>
+          ]
+          j:\2015source\projects\datastructure\binarytreecpp\stack.h(65) : see reference to function template instantiation 'void Stack<TreeNode<char>>::ChangeSizeId(T *&,const int,const int)' being compiled
+          with
+          [
+              T=TreeNode<char>
+          ]
+          j:\2015source\projects\datastructure\binarytreecpp\stack.h(41) : while compiling class template member function 'Stack<TreeNode<char>>::Stack(int)'
+          j:\2015source\projects\datastructure\binarytreecpp\binarytree.h(131) : see reference to function template instantiation 'Stack<TreeNode<char>>::Stack(int)' being compiled
+          j:\2015source\projects\datastructure\binarytreecpp\binarytree.h(131) : see reference to class template instantiation 'Stack<TreeNode<char>>' being compiled
+          j:\2015source\projects\datastructure\binarytreecpp\binarytree.h(130) : while compiling class template member function 'void Tree<T>::InorderIter(void) const'
+          with
+          [
+              T=char
+          ]
+          j:\2015source\projects\datastructure\binarytreecpp\main.cpp(38) : see reference to function template instantiation 'void Tree<T>::InorderIter(void) const' being compiled
+          with
+          [
+              T=char
+          ]
+          j:\2015source\projects\datastructure\binarytreecpp\main.cpp(23) : see reference to class template instantiation 'Tree<T>' being compiled
+          with
+          [
+              T=char
+          ]
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\xutility(2113) : see declaration of 'std::_Copy_impl'
+  BinaryTreeCpp.vcxproj -> J:\2015source\Projects\DataStructure\Debug\BinaryTreeCpp.exe

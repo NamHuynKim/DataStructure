@@ -1,0 +1,5 @@
+﻿  Graph.c
+  Driver.c
+j:\2015source\projects\datastructure\minnimum_cost_spanning_tree\driver.c(68): warning C4013: 'printf' undefined; assuming extern returning int
+  Generating Code...
+  Minnimum_Cost_Spanning_Tree.vcxproj -> J:\2015source\Projects\DataStructure\Debug\Minnimum_Cost_Spanning_Tree.exe
